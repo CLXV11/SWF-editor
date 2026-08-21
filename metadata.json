@@ -1,0 +1,7 @@
+{
+  "name": "SWF-editor",
+  "description": "A specialized SWF text editor for Android. Modify dialogues and text strings in SWF files while preserving all assets and structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
